@@ -1,5 +1,5 @@
 {
-    "name": "desdi/symfony-ws",
+    "name": "desdi/symfony-wampv2-base",
     "description": "A skeleton for symfony wamp v2 rest implementation.",
     "type": "project",
     "license": "proprietary",
